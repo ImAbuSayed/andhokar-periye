@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/andhokar-periye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Andhokar Periye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/andhokar-periye/) |
+| **Get License** | [Request Licensing for Andhokar Periye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/andhokar-periye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারের এই মোহনায়, খুঁজছি তোমার একটু হাসি
+> বুকের ভেতর অচেনা সুর, তোমায় আমি ভালোবাসি
+> শুনতে কি পাও আমার সে ডাক, মেঘলা রাতের ওই হাওয়ায়
+> আমার এ মন তোমার পথেই, চেয়ে আছে হাজার আশায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
