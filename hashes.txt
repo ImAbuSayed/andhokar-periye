@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Andhokar Periye
+
+This log tracks the cryptographic history and versioning for the song **Andhokar Periye** (andhokar-periye).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T04:20:10.167773 | `v1` | `eca89a96dba7a86f411687dc320a0cc275d678274b5ec4af57e6afad856b8588` | `2ff128bab9cb48e8f0e17293471536228728f061e04e1de709cfdf66c55c9fb2` | `2026-05-16_andhokar-periye-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

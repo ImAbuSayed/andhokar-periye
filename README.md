@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/andhokar-periye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Andhokar Periye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/andhokar-periye/) |
+| **Get License** | [Official Music Licensing for Andhokar Periye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/andhokar-periye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eca89a96dba7a86f411687dc320a0cc275d678274b5ec4af57e6afad856b8588` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
